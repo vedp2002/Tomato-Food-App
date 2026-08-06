@@ -27,8 +27,9 @@
     font-size: 1vw;
 }
 
+
 .header-contents button{
-    border: nonw;
+    border: none;
     color: #747474;
     font-weight: 500;
     padding: 1vw 2.3vw;
